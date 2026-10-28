@@ -8,6 +8,8 @@
 
 Run the development server to access the application locally. Vite uses port 3000 by default and selects another available port if needed.
 
+Link to the Deployed project : https://chris100g.github.io/landlife-project/
+
 ---
 
 ## 🌟 Core Features Implemented
