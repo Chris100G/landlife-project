@@ -1,0 +1,10 @@
+{
+  "short_name": "LandLife",
+  "name": "LandLife — India Landslide Safety Network",
+  "start_url": "./",
+  "background_color": "#143828",
+  "theme_color": "#143828",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "India's Landslide Intelligence & Safety Network. Access offline-ready emergency guidelines, hazard maps, and reporting."
+}
